@@ -1,4 +1,4 @@
-# A simple script to find words in video frames
+# Finding words in video frames
 
 This is a simple tool to find words in videos using OCR (tesseract). It can be helpful for analyzing screen recordings of software user studies. The python script will output a list of timestamps where the word (or phrase) was found in the video.
 
